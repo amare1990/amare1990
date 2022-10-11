@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hello! I am Amare Kassa, a Software Engineer with a love for C++, Python, Django web framework. Currently,  I am looking for opportunities as python developer
+Hello! I am Amare Kassa, a Full-Stack Software Engineer with a love for C++, Python, Django web framework. Currently,  I am looking for opportunities as Python developer
 
 <div>
-  <a href="https://www.linkedin.com/in/amare90/">
+  <a href="https://www.linkedin.com/in/amare-kassa-90/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
