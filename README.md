@@ -3,7 +3,7 @@
 Hello! I am Amare Kassa, a Software Engineer with a love for C++, Python, Django web framework. Currently,  I am looking for opportunities as python developer
 
 <div>
-  <a href="https://www.linkedin.com/in/amare1990/">
+  <a href="https://www.linkedin.com/in/amare90/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
