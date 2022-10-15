@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I am Amare Kassa, a full-stack software engineer with a love for C++, Python, Django web framework. I am currently looking for opportunities as a React and Python developer.
+Hi! I am Amare Kassa, a Full-Stack Developer with a love for C++, Python, Django web framework. I am currently looking for opportunities as a React and Python developer.
 
 <div>
   <a href="https://www.linkedin.com/in/amare-kassa-90/">
