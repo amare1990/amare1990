@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I am Amare Kassa, a Full-Stack Software Engineer with a love for C++, Python, Django web framework. Currently,  I am looking for opportunities as Python developer
+Hi! I am Amare Kassa, a full-stack software engineer with a love for C++, Python, Django web framework. I am currently looking for opportunities as a React and Python developer.
 
 <div>
   <a href="https://www.linkedin.com/in/amare-kassa-90/">
@@ -8,13 +8,13 @@ Hello! I am Amare Kassa, a Full-Stack Software Engineer with a love for C++, Pyt
   </a>
 </div>
 
-#### 🌱 I am pro. in C++ and Python programming languages.
-#### Familiar with C, Java programming languages
-#### Mcroprocessor and Microcontroller and Interfacing: x86 assembly language programming and interfacing, Arduino programming and interfacing.
-#### 🌱 Have deeper knowledge and skills in computer architecture, data communication and networking.
-#### 🌱 I’m currently mastering JavaScript.
-#### 🌱 I’m currently mastering React and Python Django web framework.
-#### 🌱 Computer Engineer/Electrical Engineer.
+#### 🌱 I am a professional in programming languages, C++ and Python.
+#### 🌱 Familiar with and have done projects with with C, Java programming languages.
+#### 🌱 Familiar with and have done AI/ML projects with Python.
+#### 🌱 Mcroprocessor and Microcontroller and Interfacing: x86 assembly language programming and interfacing, Arduino programming and interfacing.
+#### 🌱 Possesses in-depth knowledge and skills in computer architecture, data communications, and computer networking.
+#### 🌱 I’m currently mastering JavaScript, React and Python Django web framework.
+#### 🌱 Computer Engineer/Electrical Engineer graduate.
 #### 👯 I’m looking to collaborate on JavaScript and Python projects.
 #### 💬 Ask me about anything you want.
 #### 😄 Pronouns: He / Him
