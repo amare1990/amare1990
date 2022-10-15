@@ -8,11 +8,14 @@ Hello! I am Amare Kassa, a Full-Stack Software Engineer with a love for C++, Pyt
   </a>
 </div>
 
-#### 🌱 I am pro. in C++, Python,C, Java programming languages, x86 assembly language programming and interfacing, Arduino programming and interfacing.
-#### 🌱 Have deeper knowledge and skills in computer architecture, data communication and networking, Microprocessors and microcontrollers programming and interfacing
-#### 🌱 Computer Engineer/Electrical Engineer.
+#### 🌱 I am pro. in C++ and Python programming languages.
+#### Familiar with C, Java programming languages
+#### Mcroprocessor and Microcontroller and Interfacing: x86 assembly language programming and interfacing, Arduino programming and interfacing.
+#### 🌱 Have deeper knowledge and skills in computer architecture, data communication and networking.
 #### 🌱 I’m currently mastering JavaScript.
-#### 👯 I’m looking to collaborate on JavaScript projects.
+#### 🌱 I’m currently mastering React and Python Django web framework.
+#### 🌱 Computer Engineer/Electrical Engineer.
+#### 👯 I’m looking to collaborate on JavaScript and Python projects.
 #### 💬 Ask me about anything you want.
 #### 😄 Pronouns: He / Him
 
