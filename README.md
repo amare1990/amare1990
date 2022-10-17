@@ -11,7 +11,7 @@ Hi! I am Amare Kassa, a Full-Stack Developer with a love for C++, Python, Django
 #### 🌱 I am a professional in programming languages, C++ and Python.
 #### 🌱 Familiar with and have done projects with with C, Java programming languages.
 #### 🌱 Familiar with and have done AI/ML projects with Python.
-#### 🌱 Mcroprocessor and Microcontroller and Interfacing: x86 assembly language programming and interfacing, Arduino programming and interfacing.
+#### 🌱 Mcroprocessor and Microcontroller and Interfacing: 8086 assembly language programming and interfacing, Arduino programming and interfacing.
 #### 🌱 Possesses in-depth knowledge and skills in computer architecture, data communications, and computer networking.
 #### 🌱 I’m currently mastering JavaScript, React and Python Django web framework.
 #### 🌱 Computer Engineer/Electrical Engineer graduate.
