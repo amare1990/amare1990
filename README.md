@@ -3,7 +3,7 @@
 Hi! I am Amare Kassa, a Full-Stack Developer with a love for data structures and algorithms. I am currently looking for opportunities as software development requiring, JavaScript, React, Python, Django, Rails.
 
 <div>
-  <a href="https://www.linkedin.com/in/amare-kassa-90/">
+  <a href="https://www.linkedin.com/in/amaremek/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
