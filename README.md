@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I am Amare Kassa, a Full-Stack Developer with a love for JavaScript, React, Python, Django web framework. I am currently looking for opportunities as a React and Python developer.
+Hi! I am Amare Kassa, a Full-Stack Developer with a love for data structures and algorithms. I am currently looking for opportunities as software development requiring, JavaScript, React, Python, Django, Rails.
 
 <div>
   <a href="https://www.linkedin.com/in/amare-kassa-90/">
@@ -12,8 +12,8 @@ Hi! I am Amare Kassa, a Full-Stack Developer with a love for JavaScript, React, 
 #### 🌱 Familiar with and have done projects with with C, Java programming languages.
 #### 🌱 Familiar with and have done AI/ML projects with Python.
 #### 🌱 Mcroprocessor and Microcontroller and Interfacing: 8086 assembly language programming and interfacing, Arduino programming and interfacing.
-#### 🌱 Possesses in-depth knowledge and skills in computer architecture, data communications, and computer networking.
-#### 🌱 I’m currently mastering JavaScript, React and Python Django web framework.
+#### 🌱 Possesses in-depth knowledge and skills in computer architecture, Operating Systems, and computer networking.
+#### 🌱 I’m currently mastering JavaScript, React, Python, Django, and Rails.
 #### 🌱 Computer Engineer/Electrical Engineer graduate.
 #### 👯 I’m looking to collaborate on JavaScript and Python projects.
 #### 💬 Ask me about anything you want.
@@ -29,6 +29,7 @@ Hi! I am Amare Kassa, a Full-Stack Developer with a love for JavaScript, React, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"      height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"   height="40"/>&nbsp;
+  <img src="https://github.com/FortAwesome/Font-Awesome/issues/6693" title="Bootstrap" alt="Bootstrap" width="40"   height="40"/>&nbsp;
 </div>
 
 
