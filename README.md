@@ -15,7 +15,7 @@ Hi! I am Amare Kassa, a Full-Stack Developer with a love for data structures and
 #### 🌱 Possesses in-depth knowledge and skills in computer architecture, Operating Systems, and computer networking.
 #### 🌱 I’m currently mastering JavaScript, React, Python, Django, and Rails.
 #### 🌱 Computer Engineer/Electrical Engineer graduate.
-#### 👯 I’m looking to collaborate on JavaScript and Python projects.
+#### 👯 I’m looking to collaborate on Software | Full-stack development projects using JavaScript, React, Redux, Python, Rails.
 #### 💬 Ask me about anything you want.
 #### 😄 Pronouns: He / Him
 
