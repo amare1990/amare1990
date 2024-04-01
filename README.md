@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I am Amare Kassa, a Full-stack Developer with a love for data structures and algorithms. I am currently looking for opportunities as software development requiring JavaScript, React, Python, Django, Rails.
+Hi! I am Amare Kassa, a Software Developer with a love for data structures and algorithms. I am currently looking for opportunities as software development requiring JavaScript, React, Python, Django, Rails, Machine Learning.
 
 <div>
   <a href="https://www.linkedin.com/in/amaremek/">
