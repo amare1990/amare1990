@@ -1,51 +1,71 @@
-### Hi there 👋
+### 👋 Hi there, I'm Amare Kassa
 
-Hi! I am Amare Kassa, a Software Developer passionated about doing complex projects. I am currently looking for opportunities as software development requiring JavaScript, React, Python, Django, Rails, Machine Learning.
+I’m a **Software Developer and Data Scientist** passionate about solving real-world problems through AI, FinTech, and scalable web applications. With a strong foundation in **Computer Science and Engineering**, I transitioned from academia to full-time development, contributing to **40+ web development projects** and **11+ AI/ML projects**, both in **team-based** and **solo** settings.
+
+I'm currently looking for **remote or on-site opportunities** in **AI/ML Engineering** or **Full-Stack Development**. I’ve completed **over 40 front-end and back-end projects** using technologies like **JavaScript**, **React**, **Redux**, **Python**, **Django**, and **Rails**. In addition, I’ve developed **more than 11 AI/ML projects**, particularly focused on **FinTech applications**, utilizing tools such as **NumPy**, **Pandas**, **scikit-learn**, **PyTorch**, and **TensorFlow/Keras**.
+
 
 <div>
-  <a href="https://www.linkedin.com/in/amaremek/">
+  <a href="https://www.linkedin.com/in/amaremek/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-#### 🌱 I am a professional in programming languages, C++ and Python.
-#### 🌱 Familiar with and have done projects with with C, Java programming languages.
-#### 🌱 Familiar with and have done AI/ML projects with Python.
-#### 🌱 Mcroprocessor and Microcontroller and Interfacing: 8086 assembly language programming and interfacing, Arduino programming and interfacing.
-#### 🌱 Possesses in-depth knowledge and skills in computer architecture, Operating Systems, and computer networking.
-#### 🌱 I’m currently mastering JavaScript, React, Python, Django, and Rails.
-#### 🌱 Computer Engineer/Electrical Engineer graduate.
-#### 👯 I’m looking to collaborate on Software | Full-stack development projects using JavaScript, React, Redux, Python, Rails.
-#### 💬 Ask me about anything you want.
-#### 😄 Pronouns: He / Him
+---
 
-### 📫 If you prefer reaching out via email, check it out below:
-> [amaremek@gmail.com](https://www.gmail.com)
+### 🔧 Technologies & Tools
 
-### :hammer_and_wrench: Languages and Tools I have worked with:
+**Languages & Frameworks:**  
+`C`, `C++`, `Java`, `Python`, `JavaScript`, `Ruby`, `SQL`, `HTML5`, `CSS3`  
+**Front-End:** `React`, `Redux`, `Bootstrap`  
+**Back-End:** `Django`, `Rails`, `PostgreSQL`, `MySQL`, `SQLite`  
+**AI/ML/Data Science:** `NumPy`, `Pandas`, `scikit-learn`, `PyTorch`, `TensorFlow/Keras`, `Matplotlib`, `Seaborn`, `FastAPI`, `Flask`  
+**Tools & Practices:** `Git`, `GitHub`, `TDD`, `Remote Pair Programming`, `Jest`, `Rspec`, `Netlify`, `Render`
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"   height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"      height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40"      height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40"      height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"   height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40"   height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40"   height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40"   height="40"/>&nbsp;
-</div>
+---
 
+### 📌 About Me
 
-### :fire: My Stats :
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amare1990&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://github.com/amare1990/github-readme-stats)
+- 🧠 Former **Lecturer and Chair of Computer Engineering** with 5+ years of academic experience  
+- 💻 Completed **11+ AI/Data Science projects**, including **credit scoring**, **fraud detection** and **portfolio optimization**  
+- 🧑‍💻 Built **40+ full-stack web applications**, both solo and collaboratively, using **React**, **Redux**, **Django**, **Rails**, and **PostgreSQL**  
+- 🌍 Skilled in **remote collaboration**, with over 1000 hours of **pair-programming** experience through Microverse  
+- 📊 Experienced in applying **machine learning** techniques to practical problems, particularly in **financial applications**  
+- 🌱 Continuously learning and staying updated with the latest in **AI**, **data science**, and **modern web development frameworks**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amare1990&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amare1990&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
+---
 
+### 🚀 Highlighted Projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amare1990&label=Profile%20views&color=blueviolet&style=flat" alt="Amare Kassa" /> </p>
+- **🛡 Credit Card Fraud Detection**  
+  Achieved 99.22% accuracy using Random Forest (RF) and approximately 98.31% with LSTM, after applying feature engineering and other preprocessing techniques.  
+  *Tech:* Python, scikit-learn, PyTorch, MLflow
+
+- **📊 Portfolio Optimization**  
+  Applied ARIMA, SARIMA, and LSTM models to optimize asset allocation  
+  *Tech:* Python, scikit-learn, TensorFlow/Keras
+
+- **🚗 Car Reservation System**  
+  Full-stack app with React front-end and Rails back-end  
+  *Tech:* React, Redux, Rails
+
+Check out more on my [GitHub repositories](https://github.com/amare1990?tab=repositories).
+
+---
+
+### 💬 Let's Connect!
+
+- 📫 Email: [amaremek@gmail.com](mailto:amaremek@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/amaremek](https://www.linkedin.com/in/amaremek)
+
+---
+
+### 📈 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amare1990&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/amare1990/github-readme-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amare1990&theme=tokyonight)](https://git.io/streak-stats)  
+![Amare's GitHub stats](https://github-readme-stats.vercel.app/api?username=amare1990&show_icons=true&theme=tokyonight)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amare1990&label=Profile%20views&color=blueviolet&style=flat" alt="Amare Kassa" />
+</p>
