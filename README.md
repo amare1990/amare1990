@@ -1,23 +1,19 @@
-### 👋 Hi there, I'm Amare Kassa
+### 👋 Hi, I'm Amare Kassa
 
 🚀 **AI Systems Engineer | AI Agent Engineer | Backend AI Engineer**
 
-I build **production-grade AI systems**, with a focus on **multi-agent architectures, LLM applications, and scalable backend systems**.
+I design and build **production-grade AI systems**, specializing in **multi-agent architectures, LLM applications, and scalable backend infrastructure**.
 
-With a background in **Computer Engineering (MSc)** and experience as a **Lecturer & Department Chair**, I transitioned into industry, where I’ve built:
-
-- 🤖 **9+ AI agent systems**
-- 📊 **11+ ML/AI projects**
-- 🌐 **40+ full-stack applications**
+With a background in **Computer Engineering (MSc)** and experience as a **Lecturer & Department Chair**, I now focus on solving real-world problems using **agentic AI systems and data-driven platforms**.
 
 ---
 
 ### 🧠 What I Do
 
-- Design and build **AI agents & multi-agent systems**
-- Develop **LLM-powered applications** (RAG, evaluation, orchestration)
-- Engineer **scalable backend systems** (FastAPI, event-driven architectures)
-- Work on **AI reliability, evaluation, and production pipelines**
+- Build **AI agents & multi-agent systems** for complex tasks  
+- Develop **LLM-powered applications** (RAG, evaluation, orchestration)  
+- Engineer **scalable backend systems** (FastAPI, event-driven architectures)  
+- Focus on **AI reliability, evaluation, and production deployment**
 
 ---
 
@@ -43,37 +39,32 @@ With a background in **Computer Engineering (MSc)** and experience as a **Lectur
 ### 🚀 Highlighted Projects
 
 #### 🔹 Data Analytics Agent
-Production-grade AI system that answers natural language queries across multiple databases (PostgreSQL, MongoDB, SQLite, DuckDB) using multi-agent orchestration.  
+Production-grade AI system enabling natural language querying across multiple databases (PostgreSQL, MongoDB, SQLite, DuckDB) using multi-agent orchestration.  
 *Tech:* Python, MCP, SQL/NoSQL  
 
 #### 🔹 Automaton Auditor
-Hierarchical multi-agent system (Detectives → Judges → Chief Justice) for automated code and document auditing with evidence-based reporting.  
+Hierarchical multi-agent system (Detectives → Judges → Chief Justice) for automated repository and document auditing with evidence-based reporting.  
 *Tech:* Python, LangGraph, Multi-Agent Systems  
 
 #### 🔹 Data Contract Enforcer
 Data quality and schema governance system with validation, lineage-based attribution, and automated reporting pipelines.  
-*Tech:* Python, Data Engineering, Validation Pipelines  
+*Tech:* Python, Data Engineering  
 
 ---
 
-### 🏆 Experience Snapshot
+### 🏆 Highlights
 
-- 👨‍🏫 Former **Lecturer & Chair of Computer Engineering** (5+ years)
-- 🌍 Remote collaboration with distributed teams (Microverse)
-- 🧑‍💻 Built systems across **AI, FinTech, and data platforms**
-- 🧠 Strong focus on **real-world, production-grade systems**
+- 🤖 Built **9+ AI agent systems**  
+- 📊 Developed **11+ ML/AI projects**  
+- 🌐 Contributed to **40+ software projects**  
+- 👨‍🏫 Former **Lecturer & Chair of Computer Engineering (5+ years)**  
 
 ---
 
-### 💬 Let's Connect!
-
-<div>
-  <a href="https://www.linkedin.com/in/amaremek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+### 💬 Let's Connect
 
 - 📫 Email: [amaremek@gmail.com](mailto:amaremek@gmail.com)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/amaremek  
 - 💻 GitHub: https://github.com/amare1990  
 
 ---
