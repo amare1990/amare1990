@@ -1,9 +1,71 @@
 ### 👋 Hi there, I'm Amare Kassa
 
-I’m a **Software Developer and Data Scientist** passionate about solving real-world problems through AI, FinTech, and scalable web applications. With a strong foundation in **Computer Science and Engineering**, I transitioned from academia to full-time development, contributing to **40+ web development projects** and **11+ AI/ML projects**, both in **team-based** and **solo** settings.
+🚀 **AI Systems Engineer | AI Agent Engineer | Backend AI Engineer**
 
-I'm currently looking for **remote or on-site opportunities** in **AI/ML Engineering** or **Full-Stack Development**. I’ve completed **over 40 front-end and back-end projects** using technologies like **JavaScript**, **React**, **Redux**, **Python**, **Django**, and **Rails**. In addition, I’ve developed **more than 11 AI/ML projects**, particularly focused on **FinTech applications**, utilizing tools such as **NumPy**, **Pandas**, **scikit-learn**, **PyTorch**, and **TensorFlow/Keras**.
+I build **production-grade AI systems**, with a focus on **multi-agent architectures, LLM applications, and scalable backend systems**.
 
+With a background in **Computer Engineering (MSc)** and experience as a **Lecturer & Department Chair**, I transitioned into industry, where I’ve built:
+
+- 🤖 **9+ AI agent systems**
+- 📊 **11+ ML/AI projects**
+- 🌐 **40+ full-stack applications**
+
+---
+
+### 🧠 What I Do
+
+- Design and build **AI agents & multi-agent systems**
+- Develop **LLM-powered applications** (RAG, evaluation, orchestration)
+- Engineer **scalable backend systems** (FastAPI, event-driven architectures)
+- Work on **AI reliability, evaluation, and production pipelines**
+
+---
+
+### 🔧 Tech Stack
+
+**Languages:**  
+`Python`, `JavaScript`, `Java`, `C`, `C++`
+
+**AI Systems & LLMs:**  
+`AI Agents`, `Multi-Agent Systems`, `RAG`, `LLM Evaluation`, `LangGraph`, `MCP`
+
+**Backend & Data:**  
+`FastAPI`, `Django`, `PostgreSQL`, `MongoDB`, `DuckDB`, `SQLite`
+
+**ML / AI:**  
+`PyTorch`, `TensorFlow`, `Scikit-learn`, `Pandas`, `NumPy`
+
+**Systems & DevOps:**  
+`Docker`, `API Design`, `Event-Driven Architecture`, `Git`, `CI/CD`
+
+---
+
+### 🚀 Highlighted Projects
+
+#### 🔹 Data Analytics Agent
+Production-grade AI system that answers natural language queries across multiple databases (PostgreSQL, MongoDB, SQLite, DuckDB) using multi-agent orchestration.  
+*Tech:* Python, MCP, SQL/NoSQL  
+
+#### 🔹 Automaton Auditor
+Hierarchical multi-agent system (Detectives → Judges → Chief Justice) for automated code and document auditing with evidence-based reporting.  
+*Tech:* Python, LangGraph, Multi-Agent Systems  
+
+#### 🔹 Data Contract Enforcer
+Data quality and schema governance system with validation, lineage-based attribution, and automated reporting pipelines.  
+*Tech:* Python, Data Engineering, Validation Pipelines  
+
+---
+
+### 🏆 Experience Snapshot
+
+- 👨‍🏫 Former **Lecturer & Chair of Computer Engineering** (5+ years)
+- 🌍 Remote collaboration with distributed teams (Microverse)
+- 🧑‍💻 Built systems across **AI, FinTech, and data platforms**
+- 🧠 Strong focus on **real-world, production-grade systems**
+
+---
+
+### 💬 Let's Connect!
 
 <div>
   <a href="https://www.linkedin.com/in/amaremek/" target="_blank">
@@ -11,61 +73,12 @@ I'm currently looking for **remote or on-site opportunities** in **AI/ML Enginee
   </a>
 </div>
 
----
-
-### 🔧 Technologies & Tools
-
-**Languages & Frameworks:**  
-`C`, `C++`, `Java`, `Python`, `JavaScript`, `Ruby`, `SQL`, `HTML5`, `CSS3`  
-**Front-End:** `React`, `Redux`, `Bootstrap`  
-**Back-End:** `Django`, `Rails`, `PostgreSQL`, `MySQL`, `SQLite`  
-**AI/ML/Data Science:** `NumPy`, `Pandas`, `scikit-learn`, `PyTorch`, `TensorFlow/Keras`, `Matplotlib`, `Seaborn`, `FastAPI`, `Flask`  
-**Tools & Practices:** `Git`, `GitHub`, `TDD`, `Remote Pair Programming`, `Jest`, `Rspec`, `Netlify`, `Render`
-
----
-
-### 📌 About Me
-
-- 🧠 Former **Lecturer and Chair of Computer Engineering** with 5+ years of academic experience  
-- 💻 Completed **11+ AI/Data Science projects**, including **credit scoring**, **fraud detection** and **portfolio optimization**  
-- 🧑‍💻 Built **40+ full-stack web applications**, both solo and collaboratively, using **React**, **Redux**, **Django**, **Rails**, and **PostgreSQL**  
-- 🌍 Skilled in **remote collaboration**, with over 1000 hours of **pair-programming** experience through Microverse  
-- 📊 Experienced in applying **machine learning** techniques to practical problems, particularly in **financial applications**  
-- 🌱 Continuously learning and staying updated with the latest in **AI**, **data science**, and **modern web development frameworks**
-
----
-
-### 🚀 Highlighted Projects
-
-- **🛡 Credit Card Fraud Detection**  
-  Achieved 99.22% accuracy using Random Forest (RF) and approximately 98.31% with LSTM, after applying feature engineering and other preprocessing techniques.  
-  *Tech:* Python, scikit-learn, PyTorch, MLflow
-
-- **📊 Portfolio Optimization**  
-  Applied ARIMA, SARIMA, and LSTM models to optimize asset allocation  
-  *Tech:* Python, scikit-learn, TensorFlow/Keras
-
-- **🚗 Car Reservation System**  
-  Full-stack app with React front-end and Rails back-end  
-  *Tech:* React, Redux, Rails
-
-Check out more on my [GitHub repositories](https://github.com/amare1990?tab=repositories).
-
----
-
-### 💬 Let's Connect!
-
 - 📫 Email: [amaremek@gmail.com](mailto:amaremek@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/amaremek](https://www.linkedin.com/in/amaremek)
+- 💻 GitHub: https://github.com/amare1990  
 
 ---
 
 ### 📈 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amare1990&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/amare1990/github-readme-stats)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amare1990&theme=tokyonight)](https://git.io/streak-stats)  
 ![Amare's GitHub stats](https://github-readme-stats.vercel.app/api?username=amare1990&show_icons=true&theme=tokyonight)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amare1990&label=Profile%20views&color=blueviolet&style=flat" alt="Amare Kassa" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amare1990&layout=compact&theme=tokyonight)](https://github.com/amare1990)
